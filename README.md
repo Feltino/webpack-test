@@ -1,2 +1,2 @@
 # webpack-test
-webpack: https://www.youtube.com/watch?v=sUorfDyYxFI
+webpack-tutorial: https://www.youtube.com/watch?v=sUorfDyYxFI

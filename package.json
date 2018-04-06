@@ -1,0 +1,22 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack-tutorial: https://www.youtube.com/watch?v=sUorfDyYxFI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feltino/webpack-test.git"
+  },
+  "author": "Alexandr Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Feltino/webpack-test/issues"
+  },
+  "homepage": "https://github.com/Feltino/webpack-test#readme",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
