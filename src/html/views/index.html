@@ -1,0 +1,8 @@
+<script src="http://localhost:35729/livereload.js"></script>
+<% var data = {
+    title: "Заголовок | Проект",
+    author: "Alexandr Pavlov"
+  }; %>
+  <%= _.template(require('./../includes/one.html'))(data) %>
+  
+  <%= _.template(require('./../includes/two.html'))(data) %>

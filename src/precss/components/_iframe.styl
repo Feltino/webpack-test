@@ -1,0 +1,29 @@
+iframe
+  width: 100%
+  height: 70%
+  border none
+.win__cont iframe
+  +xxs-m()
+    margin-left: -8px
+
+.relation
+  position: relative
+  col()
+  size(12)
+  height: 490px
+  +mob()
+    height 250px
+  &__ration
+    padding-top: 56.25%
+    height: 0
+  &__content
+    display: block
+    position: absolute
+    width: 70%;
+    height: 680px;
+    top: 20px;
+    left: calc(50% - 35%);
+    +mob()
+      height 300px
+
+

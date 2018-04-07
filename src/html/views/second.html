@@ -1,0 +1,9 @@
+<% var data = {
+    title: "Заголовок | Проект",
+    author: "Harrix"
+  }; %>
+  <%= _.template(require('./../includes/one.html'))(data) %>
+  
+  <p>text</p>
+  
+  <%= _.template(require('./../includes/two.html'))(data) %>
